@@ -68,6 +68,5 @@
 ## 📫 Contact Me
 
 - :email: damian.fregocini@gmail.com  
-- ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white):link: [LinkedIn]([https://www.linkedin.com/in/damianfregocini/])  
-- ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+- <a href ="https://www.linkedin.com/in/damianfregocini/"> <img src = https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white >
 - <a href = "https://www.instagram.com/dami_fregocini/"> <img src = "https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
