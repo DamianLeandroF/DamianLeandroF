@@ -14,7 +14,7 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
 
-<picture> <img align = "right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGEzbHFxZmpmbDF2OXY1em5haWFqOTA4cWNkdXAxMG5qaTN1aDlzeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" width="50%">
+<picture> <img align = "right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGEzbHFxZmpmbDF2OXY1em5haWFqOTA4cWNkdXAxMG5qaTN1aDlzeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" width="20%">
 </picture>
 
 - :school: I am a `Junior` at [Analysis, development and programming of applications] in [ISET](https://www.mardelplata.gob.ar/educacion/iset)
