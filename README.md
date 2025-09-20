@@ -66,8 +66,9 @@
 - ![Chess](https://media.giphy.com/media/3o7TKyV8oei68j3HDi/giphy.gif)
 
 ## 📫 Contact Me
-
-- :email: damian.fregocini@gmail.com  
+- <a href="mailto:damian.fregocini@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 - <a href="https://www.linkedin.com/in/damian-fregocini" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
